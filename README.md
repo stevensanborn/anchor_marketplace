@@ -1,4 +1,4 @@
-# Framework of a Marketplace on Solana using anchor and Rust
+# An Initial framework of a Marketplace on Solana using anchor and rust
 
 ---
 
